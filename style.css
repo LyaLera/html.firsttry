@@ -1,0 +1,12 @@
+body {
+    background-color: aqua;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-style: italic;
+font-size: 30px;
+color:royalblue;
+font-weight: 400;}
+
+a {
+ text-decoration: none;
+ color:royalblue;
+}
